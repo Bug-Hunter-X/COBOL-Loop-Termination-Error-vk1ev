@@ -1,0 +1,1 @@
+This repository demonstrates a subtle COBOL bug related to loop termination conditions. The original code contains an error in the PERFORM VARYING loop, resulting in an incorrect counter value. The solution shows how to correct the loop condition for the expected behavior.
